@@ -58,7 +58,12 @@
 .u-section-1 .u-container-layout-4 {padding-left: 10px; padding-right: 10px}
 .u-section-1 .u-container-layout-5 {padding-left: 10px; padding-right: 10px} }
 
-@media (max-width: 575px){ .u-section-1 .u-tabs-1 {min-height: 880px; width: 340px}
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 100vh}
+.u-section-1 .u-tabs-1 {min-height: 880px; width: 340px; margin-bottom: 0}
+.u-section-1 .u-tab-pane-1 {height: 660px}
 .u-section-1 .u-image-1 {height: 277px; margin-top: 0; margin-right: initial; margin-left: initial; width: auto}
-.u-section-1 .u-text-1 {margin-top: 11px; margin-left: 0}
-.u-section-1 .u-table-1 {width: 320px} }
+.u-section-1 .u-text-1 {font-size: 0.75rem; margin-top: 40px; margin-left: 0; width: auto}
+.u-section-1 .u-text-2 {width: auto; margin-top: -189px; margin-left: 11px}
+.u-section-1 .u-table-1 {width: 320px}
+.u-section-1 .u-table-header-1 {font-size: 1.125rem}
+.u-section-1 .u-table-body-1 {font-size: 0.625rem} }
