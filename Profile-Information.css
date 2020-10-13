@@ -1,6 +1,6 @@
 .u-section-1 {background-image: url("images/default-image.jpg")}
-.u-section-1 .u-sheet-1 {min-height: 720px}
-.u-section-1 .u-tabs-1 {min-height: 620px; width: 1234px; margin: 60px auto 40px -37px}
+.u-section-1 .u-sheet-1 {min-height: 700px}
+.u-section-1 .u-tabs-1 {min-height: 620px; width: 1234px; margin: 60px auto 20px -37px}
 .u-section-1 .u-tab-link-1 {font-size: 0.75rem; background-image: none; letter-spacing: 2px; text-transform: uppercase; font-weight: 700; padding: 10px 25px}
 .u-section-1 .u-tab-link-2 {font-size: 0.75rem; background-image: none; letter-spacing: 2px; text-transform: uppercase; font-weight: 700; padding: 10px 25px}
 .u-section-1 .u-tab-link-3 {font-size: 0.75rem; background-image: none; letter-spacing: 2px; text-transform: uppercase; font-weight: 700; padding: 10px 25px}
@@ -36,7 +36,7 @@
 @media (max-width: 1199px){ .u-section-1 {background-position: 50% 50%}
 .u-section-1 .u-sheet-1 {min-height: 559px}
 .u-section-1 .u-tabs-1 {height: auto; width: 940px; margin-left: 0}
-.u-section-1 .u-text-1 {width: auto; margin-left: 338px}
+.u-section-1 .u-text-1 {width: auto; margin-left: 338px; font-size: 1rem}
 .u-section-1 .u-text-2 {margin-left: 252px}
 .u-section-1 .u-table-1 {width: 880px} }
 
