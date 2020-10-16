@@ -30225,10 +30225,10 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-social-icons-1 {width: 163px; margin-right: auto; margin-left: 0}
 .u-header .u-search-1 {width: 123px; margin-right: 0; margin-left: auto} }
  .u-footer {background-image: none}
-.u-footer .u-sheet-1 {min-height: 42px}
-.u-footer .u-text-1 {width: 559px; margin: 10px auto} 
+.u-footer .u-sheet-1 {min-height: 70px}
+.u-footer .u-text-1 {font-weight: 600; font-size: 1rem; margin: 22px 46px 22px -21px} 
 @media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px}
-.u-footer .u-text-1 {width: 417px} }
+.u-footer .u-text-1 {width: 417px; margin-left: 0; margin-right: 0} }
 @media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px} }
 @media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 57px} }
 @media (max-width: 575px){ .u-footer .u-sheet-1 {min-height: 36px}
