@@ -30221,8 +30221,8 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px){ .u-header .u-sheet-1 {min-height: 148px}
 .u-header .u-menu-1 {margin-left: 0}
 .u-header .u-nav-2 {font-weight: 700}
-.u-header .u-text-1 {font-size: 1.875rem; margin-right: 1px; margin-left: -11px}
-.u-header .u-social-icons-1 {width: 163px; margin-right: auto; margin-left: -11px}
+.u-header .u-text-1 {font-size: 1.875rem; margin-top: 20px; margin-right: auto}
+.u-header .u-social-icons-1 {width: 163px; margin-right: auto; margin-left: 0}
 .u-header .u-search-1 {width: 123px; margin-right: 0; margin-left: auto} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 42px}
